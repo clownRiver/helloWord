@@ -1,0 +1,178 @@
+@CHARSET "UTF-8";
+body{
+	margin:0px;
+	padding:0px;
+}
+.com_login_body{
+	background-color: #F3F4F8;
+	width: 1903px;
+}
+.font_size{
+	font-size: 16px;
+}
+.com_login_body .main{
+	margin-top:33px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:110px;
+	width: 800px;
+	height: 730px;
+	background-color: white;
+	text-align: center;
+}
+.com_login_body .main .form{
+	width: 800px;
+	height: 730px;
+}
+.com_login_body .title{
+	font-family: Georgia,Serif;
+	font-weight:700;
+	font-size: xx-large;
+	color: #89ACE2;
+	padding: 50px;
+}
+.com_login_body form{
+	display: block;
+}
+.com_login_body form .username{
+	margin-left:232px;
+    background: url("../../resource/img/img_23.png") no-repeat 15px center;
+	display: block;
+	width: 341px;
+	height: 50px;
+	font-weight: normal;
+	text-indent: 53px;
+	outline: 0px;
+	border-top:none;
+	border:1px solid #F3F4F8;
+	border-radius:10px
+}
+.com_login_body form .password{
+	margin-left:232px;
+	margin-top:20px;
+    background: url("../../resource/img/img_27.png") no-repeat 15px center;
+	display: block;
+	width: 341px;
+	height: 50px;
+	font-weight: normal;
+	text-indent: 53px;
+	border-top:none;
+	border:1px solid #F3F4F8;
+	border-radius:10px
+}
+.com_login_body form .set{
+	margin:0px auto;
+	width: 341px;
+	height: 50px;
+}
+
+.com_login_body form .set .remenber{
+	float:left;
+	width:200px;
+	height:100%;
+	text-align:left;
+	line-height: 50px;
+}
+.com_login_body  .a{
+	float:right;	
+	height: 100%;
+	width: 140px;
+	text-decoration: none;
+	line-height: 50px;
+	text-align: right;
+}
+.com_login_body form .remenber input{
+	background-color:white;
+	width: 17px;
+	height: 17px
+	
+}
+.com_login_body form span a{
+	margin:0px auto;
+	width:140px;
+	text-decoration: none;
+}
+.com_login_body .submit{
+	margin:0px auto;
+	margin-left: 232px;
+	margin-top:30px;
+	width:200px;
+	height:50px;
+}
+.com_login_body form .input{
+	font-family: Georgia,Serif;
+	font-size: x-large;
+	font-weight:bolder;
+	color:white;
+	margin:0px auto;
+	width: 341px;
+	height: 50px;
+	background-color: #89ACE2;
+	text-align: center;
+	border-top:none;
+	border:1px solid #F3F4F8;
+	border-radius:10px;
+}
+.com_login_body .new{
+	padding-top:30px;
+	margin-bottom: 10px;
+}
+
+.com_login_body .three{
+	height: 50px;
+	width: 341px;
+	padding-top: 10px;
+}
+
+.com_login_body .line{
+	width:80px;
+	height:20px;
+	float: left;
+	border-bottom: 1px solid gray;
+	margin-top:10px;
+	margin-left: 232px;
+}
+.com_login_body .label{
+	width:150px;
+	height:40px;
+	float: left;
+	margin-left: 10px;
+	margin-top:20px;
+	text-align: center;
+	font-weight: bold;
+}
+.com_login_body .line1{
+	width:80px;
+	height:20px;
+	float: left;
+	border-bottom: 1px solid gray;
+	margin-left: 10px;
+	margin-top:10px;
+}
+.com_login_body .image_one{
+	float:left;
+	width: 30px;
+	height: 60px;
+}
+.com_login_body .image_two{
+	float:left;
+	width: 30px;
+	height: 60px;
+	margin-left: 32px;
+}
+.com_login_body .image_three{
+	float:right;
+	width: 30px;
+	height: 60px;
+}
+.com_login_body .font_style{
+	font-size: small;
+	line-height: 30px;
+}
+.com_login_body .image{
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	width:154px;
+	height:60px;
+}

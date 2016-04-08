@@ -1,0 +1,14 @@
+#content{width: 71%;height: 45px;margin-top: 60px;}
+#content .incident{width: 21.8%;background-color: #89ACE2;height: 45px;float: left;} 
+#content .incident_style1{background-color: #ffffff;height: 45px;width: 49.9%;float: left;}
+#content .incident_style2{background-color: #89ACE2;height: 45px;width: 49.9%;float: left;}
+#content .incident_right{width: 78.2%;background-color: #89ACE2;height: 45px;float: right;}
+#id1 .User_table{width: 71%;height: 143px;border:1px solid #ccc;border-top:none;border-bottom:#ccc 1px dashed;}
+#id1 .User_table_one{border:1px solid #ccc;border-top:none;border-bottom:none;width: 71%}
+#id1 .User_img_style{width: 60px;height: 60px;border-radius:10px;}
+#id2 .User_tableone{border-left: solid 1px #BBB;border-right: solid 1px #BBB;border-bottom: solid 1px #BBB;width: 71%;}
+#id2 .User_tableone tr td{height: 45px;}
+#id2{display: none;}
+
+
+

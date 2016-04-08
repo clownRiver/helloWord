@@ -1,0 +1,28 @@
+li{list-style-type:none;}
+a:link,a:visited{text-decoration:none;color: white;}
+a:hover{text-decoration:none;}
+body,ul,dd{margin: 0px; padding: 0px;}
+*{font-family:SimHei;}
+
+/* 首页中部 */
+.news_info_body{width: 1120px;margin: 0px auto;height:1000px;}
+.news_info{width: 73%;height:900px;float: left;}
+.news_info>div>span{font-size: 14px;}
+.news_info_content{width: 98%;height:800px;border: 1px solid #E3E4E8;padding-top:8%}
+.news_info_content_title{width:100%;height:120px;text-align: center;}
+.news_info_content_title p{font-size: 26px;text-align: center;height:50px;}
+.news_info_content_title span{padding-left:20px;color: #8B8B8B;}
+.news_info_content_txt{width:95%;margin: 0px auto;height:70%;}
+.news_info_content_txt p{padding-bottom: 25px;}
+.news_info_right{padding:5px 10px;height:880px;width:260px;float: left;}
+.news_company_info{width: 98%;margin:0px auto;height:220px;border: 1px solid #E3E4E8;background: #F9F9F9;margin-bottom: 10px;}
+.news_info_right_title{height:40px;width:91%;line-height: 40px;padding-left:10%;font-size: 16px;border-bottom: 1px solid #E3E4E8;}
+.news_company_info_content{width:90%;height:150px; margin: 0px auto;}
+.news_company_info_content p{padding-top:10px;}
+
+.news_info_correlation{width: 98%;margin:0px auto;height:620px;border: 1px solid #E3E4E8;background: #F9F9F9;}
+.news_correlation_content{width:92%;height:450px; padding:10px 0px 0px 20px;margin: 0px auto;}
+.news_correlation_content p{padding-top:10px;}
+
+.news_info_content_share{height:60px;width:95%;line-height: 60px;text-align: right;paading-left:5%;}
+.news_info_content_share input{width:32px;height: 32px;border:0px;vertical-align: middle;border-radius:5px;}

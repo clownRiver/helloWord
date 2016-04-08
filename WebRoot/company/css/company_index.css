@@ -1,0 +1,43 @@
+li{list-style-type:none;}
+a:link,a:visited{text-decoration:none;}
+a:hover{text-decoration:none;}
+body,ul,dd{margin: 0px; padding: 0px;}
+*{font-family:Microsoft Yahei; font-size: 14px;} 
+/* 内容 */
+.company_index_content{width: 1200px; margin: 0px auto;height:1400px;padding-top:20px;}
+.company_index_left{width:280px;height:700px;float: left;}
+.company_index_left_title{padding:5px 10px;background: #89ACE2;height:40px;width:242px;line-height: 40px;color: white;}
+.company_index_left_title span{font-family: SimHei;font-size: 14px;}
+.company_index_query{border:1px solid #B2B2B2;padding-left: 20px; font-family:SimHei;background: #F9F9F9;width: 240px;}
+.company_index_module_title{width:200px;float: left;height:50px; line-height: 30px;}
+.company_index_arrow{height:30px; line-height: 30px; color: #B2B2B2;cursor: pointer;}
+.company_query_content{width:200px;float:left;padding-left:20px;height:25px;line-height:25px;}
+.company_div_radius{border-radius:3px; background-color: #E5E5E5;width:12px;height:12px;float: left;}
+.company_index_module_title{width:200px;float: left;height:30px; line-height: 30px;}
+.company_index_debt_situation input{height: 30px;width:100px;border:1px solid #B2B2B2;border-radius:3px;}
+.company_index_debt_situation td{height: 30px;width:108px;}
+
+.his_query{clear:both;width: 260px;height:380px;border: 1px solid #B2B2B2;background: #F9F9F9;}
+.his_query_title{padding:5px 10px;background: #89ACE2;height:40px;width:240px;line-height: 40px;color: white;}
+.his_query_title span{font-family: SimHei;}
+.his_query_body{width:260px;height:300px;padding: 15px;}
+.his_query_content{width:260px;height:90px;float: left;}
+.his_query_identity{float:left;width:20px;height:20px;border-radius:10px; float: left;background: gray;color: white;font-size: 14px;text-align: center;line-height: 20px;}
+.his_query_content_txt{width:200px;height:90px;float: left;padding-left:20px}
+.his_query_content_txt p{padding:10px 0px;color: gray;}
+.his_query_content_txt span{cursor: pointer;}
+.company_query_list{width: 70%;height:auto;float: left; padding:0px 20px;}
+.company_query_list_body{width: 98%;height:auto;margin: 0px auto;}
+.company_query_list_content{padding:5px 10px; height:40px;width:98%;line-height: 40px;}
+.company_query_list_content select{background: white;width:100px;height:26px; padding-left:28px;border: 0px;background-color: #F9F9F9;border: 1px solid #B2B2B2; border-radius:3px;}
+.company_list_body{padding:20px 10px;height:130px;width:100%;border-top: 3px solid #F0F0F2;}
+.company_list_img{float: left;width: 130px;text-align:center;}
+.company_list_img img{width:100px;height:90px;}
+.company_list_content{float: left;padding-left: 10px;width:640px;}
+.company_list_content_title{float: left;width:580px;}
+.company_list_content_title input{border-radius:3px;border:0px;background: #7DC67F;padding:0px 3px;color: white;width:33px;height:22px;}
+.company_list_content_title img,input{vertical-align: middle;}
+.company_list_content_attention{border-radius:2px;border:0px;background: #89ACE2;width:55px;height:30px;color: white;cursor: pointer;}
+.company_list_content span{padding:10px;}
+.company_list_content_address{width:320px;height:35px;}
+.company_list_content_menu{clear: both;width:100%;padding:10px}

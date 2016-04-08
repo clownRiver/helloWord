@@ -1,0 +1,60 @@
+.personal *{
+padding:0px;
+margin:0px;
+border:0px;
+}
+#tag_box{  
+	/*   ����ɫ�������*/
+	
+
+/*	border-left:1px solid #000000;*/
+	
+	
+}
+#tag_box ul{    
+	list-style:none;
+}
+#tag_box li{
+width: 130px;
+}
+
+#menuList{
+	margin:0px;
+	height:50px;   /*123456����top*/
+
+}
+#menuList li{
+	float:left;
+	
+
+	position:relative;
+	
+	cursor:hand;
+	text-align:center;
+}
+
+#menuList .curMenu{
+	background-color:#FFFFFF;
+	border-bottom:1px solid #FFFFFF;
+}
+
+#tag_box .tag_content
+{    
+	
+	padding-top:10px;
+}
+#table{
+color: #000000;text-align: center;width: 71%;height: 45px;height:71%; border-left: solid 1px #BBB; border-top: solid 1px #BBB;border-right: solid 1px #BBB;	
+}
+#table tr td{
+border-bottom: solid 1px #BBB;height: 45px;	
+}
+#table1{
+color: #000000;width: 71%;height: 45px;height:71%; border-left: solid 1px #BBB;border-right: solid 1px #BBB;	
+}
+#table1 tr td{
+border-bottom: solid 1px #BBB;height: 60px;	
+}
+/*         table{color: #000000;text-align: center;width: 71%;height: 45px;height:71%; border-left: solid 1px #BBB; border-top: solid 1px #BBB;border-right: solid 1px #BBB;}
+        td{  } */
+

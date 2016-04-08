@@ -1,0 +1,214 @@
+@CHARSET "UTF-8";
+
+body{
+	margin: 0px;
+}
+.com_login_body {
+	background-color: #F3F4F8;
+	width: 1903px;
+}
+
+.font_size {
+	font-size: 16px;
+}
+
+.com_login_body .main {
+	margin-top: 33px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 110px;
+	width: 800px;
+	height: 700px;
+	background-color: white;
+	text-align: center;
+}
+
+.com_login_body .main .form {
+	width: 800px;
+	height: 730px;
+}
+
+.com_login_body .title {
+	margin: 0px auto;
+	font-family: Georgia, Serif;
+	font-weight: 600;
+	color: #89ACE2;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	margin: 0px auto;
+	width: 341px;
+	text-align: center;
+	height: 50px;
+}
+
+.com_login_body form {
+	display: block;
+}
+
+.com_login_body form .username {
+	margin-left: auto;
+	margin-right: auto;
+	background: url("../../resource/img/img_23.png") no-repeat 15px center;
+	display: block;
+	width: 341px;
+	height: 50px;
+	font-weight: normal;
+	text-indent: 53px;
+	outline: 0px;
+	border-top: none;
+	border: 1px solid #F3F4F8;
+	border-radius: 10px
+}
+
+.com_login_body form .password {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	background: url("../../resource/img/img_27.png") no-repeat 15px center;
+	display: block;
+	width: 341px;
+	height: 50px;
+	font-weight: normal;
+	text-indent: 53px;
+	border-top: none;
+	border: 1px solid #F3F4F8;
+	border-radius: 10px
+}
+
+.com_login_body form .code {
+	margin-left: 232px;
+	margin-top: 20px;
+	background-color: #F9F9F9;
+	width: 237px;
+	height: 50px;
+	font-weight: normal;
+	float: left;
+	border-top: none;
+	border: 1px solid #F3F4F8;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	text-indent: 20px;
+	color: blue;
+}
+
+.com_login_body form .button {
+	margin-left: 0px;
+	margin-top: 20px;
+	text-align: center;
+	background-color: white;
+	width: 105px;
+	height: 54px;
+	float: left;
+	display: block;
+	border-top: none;
+	border: 1px solid #F3F4F8;
+	border-radius: 10px;
+	border-left: none;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.com_login_body .submit {
+	margin: 0px auto;
+	margin-left: 232px;
+	margin-top: 30px;
+	width: 200px;
+	height: 50px;
+}
+
+.com_login_body form .input {
+	font-family: Georgia, Serif;
+	font-weight: bold;
+	font-size: x-large;
+	color: white;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	background-color: #89ACE2;
+	text-align: center;
+	width: 341px;
+	height: 50px;
+	border-top: none;
+	border: 1px solid #F3F4F8;
+	border-radius: 10px
+}
+
+.com_login_body .prompt {
+	width: 100%;
+	height: 50px;
+	padding-top: 20px;
+}
+
+.com_login_body .new {
+	padding-top: 30px;
+	margin-bottom: 10px;
+}
+
+
+
+.com_login_body div span a {
+	text-decoration: none;
+	color: #989898;
+}
+
+.com_login_body .message {
+	width: 100%;
+	height: 45px;
+	padding-top: 10px;
+}
+
+.com_login_body .message .line {
+	width: 80px;
+	height: 20px;
+	float: left;
+	border-bottom: 1px solid gray;
+	margin-left: 232px;
+}
+
+.com_login_body .message .label {
+	width: 150px;
+	height: 20px;
+	float: left;
+	margin-left: 10px;
+	text-align: center;
+	padding-top: 10px;
+	font-weight: bold;
+	font-size: medium;
+}
+
+.com_login_body .message .line1 {
+	width: 80px;
+	height: 20px;
+	float: left;
+	border-bottom: 1px solid gray;
+	margin-left: 10px;
+}
+.com_login_body .image_one{
+	float:left;
+	width: 30px;
+	height: 60px;
+}
+.com_login_body .image_two{
+	float:left;
+	width: 30px;
+	height: 60px;
+	margin-left: 32px;
+}
+.com_login_body .image_three{
+	float:right;
+	width: 30px;
+	height: 60px;
+}
+.com_login_body .font_style{
+	font-size: small;
+	line-height: 30px;
+}
+.com_login_body .image{
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	width:154px;
+	height:60px;
+}

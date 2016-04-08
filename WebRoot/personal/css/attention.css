@@ -1,0 +1,8 @@
+#body_top{overflow-x: hidden; overflow-y: scroll; width: 100%; height: 740px; clear: both;margin-top: 60px;}
+#body_top .body_one{width: 71%;height: 45px;background: #89ACE2;line-height: 30px;}
+#body_top .body_two{float: left;margin-top: 8px;margin-left: 20px;}
+#tableone{border-left:solid 1px #BBB;border-right:solid 1px #BBB;width: 71%;color: #000000 }
+#tableone tr td{border-bottom: solid 1px #BBB;height: 60px; }
+#tableone .imag_one{width: 50px;height: 40px;border-radius:10px;}
+#body_top .a_style{margin-left: 66%;text-decoration: none;color:#A0A0A0;}
+#body_top .strong_style{font-size: 14px;font-weight: bold;font-family: ΢���ź�,Arial,Times New Roman;}

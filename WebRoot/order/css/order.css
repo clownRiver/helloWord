@@ -1,0 +1,220 @@
+.com_order_main{
+	width: 1903px;
+	height:1080px;
+	display: block;
+}
+.com_order_navigation{
+	margin:10px auto;
+	width: 1140px;
+	height:20px;
+	padding-left: 70px;
+ }
+.com_order_body{
+	margin:0px auto;
+	width: 1140px;
+	height:820px;
+	border: 1px solid #A0A0A0;
+	padding-left:30px;
+	padding-top:25px;
+}
+.com_order_body{
+	margin:0px auto;
+	width: 1140px;
+	height:820px;
+	border: 1px solid #A0A0A0;
+	padding-left:30px;
+	padding-top:25px;
+}
+.height{
+	height:910px;
+}
+.com_order_body .order{
+	color:88ABE1;
+	height: 30px;
+}
+.com_order_body h4{
+	padding-left:20px;
+	width: 80px;
+	display:inline;
+}
+.com_order_body .order .success{
+	padding-left:20px;
+	color:red;
+}
+.com_order_body .message{
+	width:100%;
+	height: 420px;
+	padding-top: 35px;
+}
+.com_order_body label{
+	padding-left:20px;
+	text-indent: 100px;
+	width: 80px;
+	height: 100%;
+}
+
+.com_order_body div.title{
+	float:left;
+	height: 420px;
+}
+.list{width:750px;}
+.com_order_body div.list{
+	float:left;
+	height: 420px;
+}
+.com_order_body div .p1{
+	margin-left:24px;
+	width:640px;
+	height:22px;
+	background-color: #F9F9F9;
+}
+.com_order_body div .p2{
+	margin-left:24px;
+	height: 50px;
+	width:640px;
+}
+.com_order_body div.img{
+	float:left;
+	width:200px;
+	height: 240px;
+	background-color: #F9F9F9;
+}
+
+.com_order_body .line{
+	margin-top:0px;
+	background-color: #A0A0A0;
+	height: 1px;
+	margin-left: -30px;
+}
+.com_order_body .img2{height:100px;width:100%;padding-top:50px;}
+.com_order_body .img{text-align: center;}
+.com_order_body .button{
+	margin-left:40px;
+	margin-top:40px;
+	text-align: center;
+	background-color: #48CFAE;
+	width: 130px;
+	height: 50px;
+	float:left;
+	display: block;
+	border:0px;
+	border-radius:5px;
+	border-bottom-width: 10px;
+	border-bottom:4px solid #5B998A; 
+}
+.com_order_body .see{
+	margin-left:10px;
+	margin-top:40px;
+	text-align: center;
+	width: 130px;
+	height: 45px;
+	background-color: #F9F9F9;
+	border: 1px solid #89ACE2;
+	font-family: Microsoft YaHei;
+}
+.com_order_body .email{
+	margin-top: 36px;
+	width: 100%;
+	height:280px;
+}
+.com_order_body .email .addr{
+	margin-left: 90px;
+	margin-top: 50px;
+	height:15px;
+	
+}
+.com_order_body .email .change{
+	margin-right: 0px;
+	margin-top: 50px;
+	padding-left: 1px;
+	display: inline;
+}
+.com_order_body .email{
+	margin-top: 36px;
+}
+.bt{
+	margin-top:32px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:185px;
+	width:150px;
+	text-align:right;
+	float: right;
+}
+.bt{
+	margin-top:32px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:185px;
+	width:300px;
+	text-align:right;
+	float: right;
+}
+.bt .button3{
+	margin-right:50px;
+	background-color:#89ACE2;
+	width: 90px;
+	height: 45px;
+	color: white;
+	font-family: Georgia,Serif;
+	font-size: medium;
+	border: 0px;
+	float:right;
+}
+.bt .s_button3{
+	margin-right:50px;
+	margin-top:17px;
+	background-color:#89ACE2;
+	width: 128px;
+	height: 45px;
+	color: white;
+	font-family: Georgia,Serif;
+	font-size: medium;
+	border: 0px;
+}
+.bott{
+	margin:0px auto;
+	width: 1140px;
+	height: 270px;
+	display: block;
+}
+.info{
+	width: 230px;
+	height: 130px;
+	float: left;
+}
+.s_info{
+	width: 230px;
+	height: 130px;
+	float: left;
+	margin-top:-20px;
+}
+.font_info{
+	width:100%;
+	font-size:large;
+	font-family: Microsoft YaHei;
+	line-height:110px;
+	color:red;
+}
+
+.s_font_info{
+	width:100%;
+	font-size:large;
+	font-family: Microsoft YaHei;
+	line-height:110px;
+	font-weight:bold;
+	color:red;
+}
+.font_down{
+	text-decoration: underline;
+}
+.com_order_body .text{
+	width:343px;
+	height: 35px;
+	vertical-align: middle;
+}
+.com_order_body .radio{
+	width:600px;
+	height: 38px;
+	float:left;
+}

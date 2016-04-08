@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+.personal *{
+padding:0px;
+margin:0px;
+border:0px;
+
+}
+#subMenu {
+    position:absolute; left:10px; top:30px; width:150px; background-color:#000087; color:#FFF; line-height:30px;
+}
+#subMenu .table{
+    position:absolute; left:10px; top:30px; width:150px; background-color:#000087; color:#FFF; line-height:30px;
+}
+#id{
+	width:100%;
+	height:70px;	
+background-color:#000000;	
+}
+#id1{
+	
+	margin-left:60%;
+}
+#quan{
+	
+	width:400px;
+	height:823px;;
+	
+}
+#quan1{
+	
+	width: 420px;
+	height: 78px;
+}
+#quan2{
+	
+	height:420px;
+}
+#quan2 ul{
+	margin-left: 200px;
+	margin-top: 80px;
+}
+#quan2 li{	
+	list-style:none;
+}
+#tag_box{  
+	/*   背景色这里添加*/
+	
+	width:79%;
+	heigh:50%;
+/*	border-left:1px solid #000000;*/
+/*border-radius:10px;*/
+	float: right;
+}
+#tag_box ul{
+    
+	list-style:none;
+}
+#tag_box li{
+width: 200px;
+	margin-left: 20px;
+}
+
+#menuList{
+	margin:0px;
+	height:50px;
+	margin-top: 20px;
+}
+#menuList li{
+	float:left;
+	border:1px solid #000000;
+	margin:0px 5px 0px 0px;	
+	position:relative;
+	top:1px;
+	cursor:hand;
+	margin-left:20px;
+	text-align:center;
+}
+
+#menuList .curMenu{
+	background-color:#FFFFFF;
+	border-bottom:1px solid #FFFFFF;
+}
+
+#tag_box .tag_content
+{    
+	margin-left:20px;
+	padding:5px;
+	padding-top:10px;
+}
+#tong{
+	width:100%;
+	height:240px;
+ 
+	margin-top: 708px;	
+}
+#tong1{
+
+	float: left;
+}
+#tong2{
+	margin-left:40px;
+	float: left;
+}
+#tong3{
+	margin-left:40px;
+	float: none;
+}
